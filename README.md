@@ -5,7 +5,7 @@
 This project allows users to control a PC's keyboard and mouse using hand gestures captured via a webcam. It leverages powerful Python libraries to interpret hand movements and convert them into interactive inputs — ideal for games like *Hill Climb Racing* or for accessibility purposes.
 ### 🎮 Gameplay Preview
 
-![Gameplay Screenshot](Screenshot%202025-05-28%20183809.png)
+![Gameplay Screenshot](https://github.com/Harshitha547/GAME_FACE_CONTROL/blob/main/ML_GAME_FACE_CONTROL-main/Screenshot%202025-05-28%20183809.png?raw=true)
 
 ---
 
